@@ -18,6 +18,7 @@ https://raw.githubusercontent.com/mosenwoek/icons/refs/heads/main/<文件名>.pn
 | youjiacx.png | 用户提供 | 蓝底「最新油价」 |
 | HCNSEC.png | 生成版 | 深底橙菱形闪电 |
 | BoxJS.png | 生成版 | 绿底白铃铛 |
+| xiaohuanxiong.png | 官网 logo 反色 | 深蓝底白色浣熊面具 |
 | v2_square.png | 自制 | BoxJS 订阅主图（篮球框 + MOSEN） |
 
 ## 使用
