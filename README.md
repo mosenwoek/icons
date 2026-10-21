@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/mosenwoek/icons/refs/heads/main/<文件名>.pn
 | BoxJS.png | 生成版 | 绿底白铃铛 |
 | xiaohuanxiong.png | 官网 logo 反色 | 深蓝底白色浣熊面具 |
 | v2_square.png | 自制 | BoxJS 订阅主图（篮球框 + MOSEN） |
+| mosen.png | 用户提供（AI 绘制） | 斗破苍穹萧炎×MOSEN 彩色涂鸦字 |
 
 ## 使用
 
