@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/mosenwoek/icons/refs/heads/main/<文件名>.pn
 | xiaohuanxiong.png | 官网 logo 反色 | 深蓝底白色浣熊面具 |
 | v2_square.png | 自制 | BoxJS 订阅主图（篮球框 + MOSEN） |
 | mosen.png | 用户提供（AI 绘制） | 斗破苍穹萧炎×MOSEN 彩色涂鸦字 |
+| yulanview.png | 用户提供（AI 绘制） | 预览插件（红蓝笔刷底 + 气球） |
 
 ## 使用
 
